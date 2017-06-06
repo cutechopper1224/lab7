@@ -1,0 +1,4 @@
+how to compile:
+	make
+how to run:
+	./tetris
